@@ -12,7 +12,7 @@ def load_model(file_path):
 # Define the route to access the model
 @app.route('/model', methods=['GET'])
 def get_model():
-    model = load_model('Model.pkl')  # Replace 'example.pkl' with your file path
+    model = load_model('Mini Project/Model.pkl')  # Replace 'example.pkl' with your file path
     # Convert the model to JSON and return
     return jsonify({"model": model})
 
