@@ -1,5 +1,4 @@
 # Machine Learning Lab
-https://lms.ssn.edu.in/course/view.php?id=2240#coursecontentcollapse14
 ## Assignment 🥈
 - Assignment 01 [Study on Python Packages pandas, numpy, matplotlib, sklearn, seaborn](https://github.com/KKBUGHUNTER/Machine-Learning-Lab/tree/main/Assignment-01)
 - Assignment 02 [Linear Regression](https://github.com/KKBUGHUNTER/Machine-Learning-Lab/tree/main/Assignment-02)
